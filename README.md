@@ -1,2 +1,1 @@
-# AV_Last_Man_Standing 
-# This solution was shared by the topper of challenge(Bishwarup).
+# AV Last Man Standing solution for Rank 1 and 2
